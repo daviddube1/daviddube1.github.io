@@ -2,8 +2,6 @@
 title: "Research & Publications"
 ---
 
-## Research
-
 My research sits at the intersection of comparative political economy, international political economy, and information politics. I study how states, markets, and digital communities negotiate authority as emerging technologies and economic sectors become increasingly salient and subject to state regulation. My dissertation and book project examines cryptocurrency regulation across the European Union, the United States, and Canada, asking why governments adopt different approaches to governing an economic sector that emerged largely outside traditional systems of financial authority.
 
 This research provides the foundation for a broader comparative research agenda on the political economy of emerging digital technologies. I am particularly interested in how states respond to technologies and sectors that develop faster than existing regulatory institutions, how firms and communities seek to shape the rules governing them, and how regulatory strategies vary across political and institutional contexts. I am developing this agenda beyond cryptocurrency to examine artificial intelligence and other emerging fintech and digital technology sectors that are economically significant, rapidly developing, and increasingly subject to government scrutiny.
