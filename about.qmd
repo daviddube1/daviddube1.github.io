@@ -12,7 +12,7 @@ My research sits at the intersection of international political economy, digital
 
 I also work on questions of international relations, disinformation, and strategic communication. My research examines how state actors exploit digital information ecosystems to promote strategic narratives, influence political interpretation, and contest international order, with particular attention to Russian and Chinese foreign influence campaigns. This work is especially concerned with the measurement and detection of misinformation, foreign influence, and inauthentic or synthetic content across digital platforms. Through past experience as a Senior Data Analyst with *Global Affairs Canada*'s Rapid Response Mechanism, and as Research Team Leader at the Canadian Network on Information and Security, I lead applied research and analytical work on foreign information manipulation targeting Canada and its allies.
 
-My work is under review or forthcoming at journals such as the *British Journal of Political Science*, *Reviews of International Political Economy*, the *Journal of Experimental Political Science*, and the *International Journal*.
+My work is forthcoming at journals such as the *British Journal of Political Science*, the *International Journal* and received revise-and-resubmit decisions at *Reviews of International Political Economy* and the *Journal of Experimental Political*
 
 Methodologically, I combine qualitative, quantitative, and computational approaches. My training includes interviews, field observation, focus groups, surveys, experiments, and causal inference, as well as natural language processing, machine learning, and large-scale text analysis. Across my projects, I am especially interested in how computational methods can help address measurement challenges in political science while remaining attentive to theory, context, and interpretation.
 
@@ -22,20 +22,20 @@ Beyond political science, I am fond of data science, astrophysics, and linguisti
 
 ## Grants and Fellowships
 
-- **Canadian Graduate Scholarship for Doctoral Programs - Social Science and Humanities Research Council Doctoral Fellowship** ($40,000 CAD/year). Awarded from May 2023 until May 2026.
-- **Doctoral Excellence Research Grant**, McGill University Department of Political Science ($22,000 CAD/year). Awarded from Fall 2022 until May 2027.
-- **Graduate Mobility Award**, McGill University ($6,000 CAD). Awarded for Fall 2026 dissertation fieldwork.
+- **Canadian Graduate Scholarship for Doctoral Programs - Social Science and Humanities Research Council Doctoral Fellowship** (\$40,000 CAD/year). Awarded from May 2023 until May 2026.
+- **Doctoral Excellence Research Grant**, McGill University Department of Political Science (\$22,000 CAD/year). Awarded from Fall 2022 until May 2027.
+- **Graduate Mobility Award**, McGill University (\$6,000 CAD). Awarded for Fall 2026 dissertation fieldwork.
 - **Jean Monnet Centre Montreal Fieldwork Scholarship**, University of Montreal/McGill University (€2,850 EUR). Awarded for Fall 2026 dissertation fieldwork.
-- **Graduate Research Enhancement and Travel (GREAT) Award**, McGill University ($750 CAD). Awarded for 2025 American Political Science Association Conference in Vancouver. 
-- **Institute for Qualitative and Mixed-Method Research** (Syracuse University) Workshop Grant ($3,000 USD value). Awarded June 2025.
-- **Centre for International Peace and Security Studies** Research Training and Traveling Grant ($500 CAD). Awarded for 2024–2025 methods training initiatives.
-- **Research Stipend, SSHRC Insight Grant** (PI: Prof. Aaron Erlich), McGill University ($3,000 CAD). Awarded to support joint research and publication at the Democracy, Transparency, Information Provision, and Participation Laboratory — Centre for the Study of Democracy and Citizenship.
-- **Marc Bourgie Internship Grant** ($10,000 CAD). Awarded June 2020.
-- **Excellence Scholarship**, Faculty of Management, University of Quebec in Montreal ($1,100 CAD). Awarded January & March 2022.
-- **J.A. DeSève Scholarship** (*Bourse J.A. DeSève*) ($4,000 CAD). Awarded June 2021.
-- **Institutional Success Support Scholarship** (*Bourse institutionnelle de soutien à la réussite*) ($4,000 CAD). Awarded December 2020 and 2021.
-- **Desjardins Caisse de d'Autray Graduate Scholarship** (*Bourse Desjardins de la Caisse d'Autray pour les cycles supérieurs*) ($1,000 CAD). Awarded June 2018.
-- **UQAM Mobility Award** ($3,000 CAD). Awarded January 2018.
+- **Graduate Research Enhancement and Travel (GREAT) Award**, McGill University (\$750 CAD). Awarded for 2025 American Political Science Association Conference in Vancouver.
+- **Institute for Qualitative and Mixed-Method Research** (Syracuse University) Workshop Grant (\$3,000 USD value). Awarded June 2025.
+- **Centre for International Peace and Security Studies** Research Training and Traveling Grant (\$500 CAD). Awarded for 2024–2025 methods training initiatives.
+- **Research Stipend, SSHRC Insight Grant** (PI: Prof. Aaron Erlich), McGill University (\$3,000 CAD). Awarded to support joint research and publication at the Democracy, Transparency, Information Provision, and Participation Laboratory — Centre for the Study of Democracy and Citizenship.
+- **Marc Bourgie Internship Grant** (\$10,000 CAD). Awarded June 2020.
+- **Excellence Scholarship**, Faculty of Management, University of Quebec in Montreal (\$1,100 CAD). Awarded January & March 2022.
+- **J.A. DeSève Scholarship** (*Bourse J.A. DeSève*) (\$4,000 CAD). Awarded June 2021.
+- **Institutional Success Support Scholarship** (*Bourse institutionnelle de soutien à la réussite*) (\$4,000 CAD). Awarded December 2020 and 2021.
+- **Desjardins Caisse de d'Autray Graduate Scholarship** (*Bourse Desjardins de la Caisse d'Autray pour les cycles supérieurs*) (\$1,000 CAD). Awarded June 2018.
+- **UQAM Mobility Award** (\$3,000 CAD). Awarded January 2018.
 
 ## Honours and Awards
 
